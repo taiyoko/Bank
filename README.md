@@ -13,9 +13,8 @@ A Java console-based bank ledger program written for Data Structures course
 **Supplemental classes (data structures) used:**
 
 * bankRecord: an object to store a single name and balance, with methods to allow manipulation of the stored contents.
-
 * ledger: an extension of the LinkedList that holds only bankRecord objects and allows for list manipulation and access to stored objects.
 
-* The program is invoked without any arguments and each user input is taken by typing the string and pressing enter.
+The program is invoked without any arguments and each user input is taken by typing the string and pressing enter.
 
 **Note: Instructor requirements did _not_ require file input/output for persistant storage. All accounts will disappear upon program termination.**
