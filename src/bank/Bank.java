@@ -1,8 +1,5 @@
 /*
  * Sarah Overlander
- * CSC 3410 Spring 2016
- * Assignment #4
- * 
  */
 package bank;
 
